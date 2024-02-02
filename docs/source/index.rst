@@ -36,7 +36,7 @@ Sebagai pengusaha tekstil pemula, pemahaman mendalam tentang berbagai jenis baha
 Dengan memahami karakteristik masing-masing jenis bahan kain, Anda dapat mengoptimalkan pilihan untuk memenuhi kebutuhan spesifik bisnis tekstil Anda. Lakukan penelitian lebih lanjut dan eksplorasi agar dapat menggabungkan berbagai jenis kain untuk menciptakan produk yang unik dan diminati oleh pelanggan. Semoga panduan ini bermanfaat dalam menjalankan usaha tekstil Anda!
 
 Referensi:
-- `L. Porter Fabrics <https://lporterfabrics.com/>`
-- `MokaPrint <https://mokaprint.com/>`
-- `MokaTextile <https://mokatextile.com/>`
-- `BikinKemeja <https://bikinkemeja.com/>`
+- https://lporterfabrics.com/
+- https://mokaprint.com/
+- https://mokatextile.com/
+- https://bikinkemeja.com/
