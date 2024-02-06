@@ -40,3 +40,10 @@ Referensi:
 - https://mokaprint.com/
 - https://mokatextile.com/
 - https://bikinkemeja.com/
+- https://prettyandcozy.com/
+
+https://maps.google.com.au/url?q=https://lporterfabrics.com/
+https://maps.google.com.au/url?q=https://mokaprint.com/
+https://maps.google.com.au/url?q=https://mokatextile.com/
+https://maps.google.com.au/url?q=https://bikinkemeja.com/
+https://maps.google.com.au/url?q=https://prettyandcozy.com/
