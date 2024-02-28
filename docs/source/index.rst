@@ -53,4 +53,5 @@ Daftar Konten
 
 .. toctree::
 
+   index
    kain
