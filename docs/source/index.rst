@@ -48,10 +48,9 @@ https://maps.google.com.au/url?q=https://mokatextile.com/
 https://maps.google.com.au/url?q=https://bikinkemeja.com/
 https://maps.google.com.au/url?q=https://prettyandcozy.com/
 
-Contents
+Daftar Konten
 ======
 
 .. toctree::
 
-   index
    kain
