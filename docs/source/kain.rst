@@ -1,4 +1,5 @@
 **Kain Wool: Keindahan dan Kesejukan dalam Serat Alami**
+===================================
 
 Kain wool, atau yang sering dikenal sebagai wol, adalah jenis kain yang terbuat dari serat bulu hewan, terutama domba. Wol telah dikenal sejak zaman prasejarah sebagai salah satu serat alami yang paling berharga dan serbaguna. Artikel ini akan menjelaskan lebih lanjut tentang kain wool, sifatnya, proses produksinya, serta manfaat dan keunikan yang dimilikinya.
 
