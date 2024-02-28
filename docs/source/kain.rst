@@ -42,3 +42,11 @@ Proses produksi wol melibatkan beberapa langkah, mulai dari mencukur bulu hewan 
 Kain wool tidak hanya menghadirkan keindahan dan keanggunan dalam bentuk pakaian, tetapi juga menawarkan sejumlah manfaat yang unik. Dari kelembutan seratnya hingga kemampuan menjaga suhu tubuh, wol terus menjadi pilihan populer dalam dunia fashion dan tekstil. Meskipun munculnya bahan sintetis, keunikan dan keunggulan wol tetap membuatnya menjadi pilihan yang sangat dihargai oleh banyak orang.
 
 https://lporterfabrics.com/batik-print/
+
+Daftar Konten
+======
+
+.. toctree::
+
+   index
+   kain
