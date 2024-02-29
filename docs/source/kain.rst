@@ -43,6 +43,24 @@ Kain wool tidak hanya menghadirkan keindahan dan keanggunan dalam bentuk pakaian
 
 https://lporterfabrics.com/batik-print/
 
+https://4.bing.com/images/search?q=site%3Alporterfabrics.com&go=Cari&qs=ds&form=QBIR
+https://4.bing.com/images/search?q=site%3Amokaprint.com&go=Cari&qs=ds&form=QBIR
+https://4.bing.com/images/search?q=site%3Amokatextile.com&go=Cari&qs=ds&form=QBIR
+https://4.bing.com/images/search?q=site%3Abikinkemeja.com&go=Cari&qs=ds&form=QBIR
+https://4.bing.com/images/search?q=site%3Aprettyandcozy.com&go=Cari&qs=ds&form=QBIR
+
+https://akam.bing.com/images/search?q=site%3Alporterfabrics.com&go=Cari&qs=ds&form=QBIR
+https://akam.bing.com/images/search?q=site%3Amokaprint.com&go=Cari&qs=ds&form=QBIR
+https://akam.bing.com/images/search?q=site%3Amokatextile.com&go=Cari&qs=ds&form=QBIR
+https://akam.bing.com/images/search?q=site%3Abikinkemeja.com&go=Cari&qs=ds&form=QBIR
+https://akam.bing.com/images/search?q=site%3Aprettyandcozy.com&go=Cari&qs=ds&form=QBIR
+
+https://www.bing.com/images/search?q=site%3Alporterfabrics.com&go=Cari&qs=ds&form=QBIR
+https://www.bing.com/images/search?q=site%3Amokaprint.com&go=Cari&qs=ds&form=QBIR
+https://www.bing.com/images/search?q=site%3Amokatextile.com&go=Cari&qs=ds&form=QBIR
+https://www.bing.com/images/search?q=site%3Abikinkemeja.com&go=Cari&qs=ds&form=QBIR
+https://www.bing.com/images/search?q=site%3Aprettyandcozy.com&go=Cari&qs=ds&form=QBIR
+
 Daftar Konten
 ======
 
